@@ -1,0 +1,9 @@
+#########################################
+#Author: Venkanna
+#Date: 19/06/2024
+#
+#Version: v1
+#
+#Runs ec2.sh script everyday at 4:30pm
+
+30 16 * * * /home/bin/ec2.sh
